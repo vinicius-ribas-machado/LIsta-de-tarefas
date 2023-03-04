@@ -1,0 +1,40 @@
+*{
+    color: rgb(179, 186, 192);
+    text-align: center;
+    margin: 0;
+}
+
+#caixa1 {
+        background-color: rgb(56, 51, 51);
+        width: 250px;              
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 10px;
+        padding: 30px;
+        margin-top: 30px;
+}
+
+
+body{
+    background-color: rgb(37, 36, 36);
+}
+
+button{
+    color: white;
+    background-color: rgb(68, 58, 58);
+}
+
+#lista{
+    margin-bottom: 10px;
+}
+
+
+button:active {
+    transform: scale(1.6);
+    transition: transform 0.2s ease-in-out;
+}
+
+#sua-lista{
+    padding-top: 20px;
+}
+
